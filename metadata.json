@@ -1,0 +1,6 @@
+{
+  "name": "BiH Izbori 2026 - Rezultati Uživo",
+  "description": "Pratite uživo rezultate općih izbora u Bosni i Hercegovini 2026. godine. Rezultati za Predsjedništvo, Parlament BiH, Parlament FBiH i Skupštine Kantona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
